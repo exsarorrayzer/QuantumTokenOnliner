@@ -144,7 +144,9 @@ This tool is for educational and research purposes only. Users are responsible f
 exsarorrayzer
 
 · GitHub: @exsarorrayzer
+
 · Instagram: @exsarorrayzer
+
 · YouTube: @exsarorrayzer
 
 📄 License
