@@ -1,0 +1,31 @@
+{
+    "version": "1.0",
+    "name": "QuantumOnliner",
+    "author": "exsarorrayzer", 
+    "description": "Quantum Discord Token Onliner",
+    "social": {
+        "instagram": "exsarorrayzer",
+        "github": "exsarorrayzer",
+        "youtube": "exsarorrayzer"
+    },
+    "stats": {
+        "total_tokens": 0,
+        "online_tokens": 0,
+        "failed_tokens": 0,
+        "active_connections": 0,
+        "total_requests": 0,
+        "success_rate": 0
+    },
+    "settings": {
+        "max_threads": 100,
+        "request_delay": 0.5,
+        "auto_rotate": true,
+        "proxy_enabled": false,
+        "webhook_enabled": false
+    },
+    "status": {
+        "last_update": "",
+        "running": false,
+        "start_time": ""
+    }
+}
