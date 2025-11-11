@@ -2,7 +2,7 @@
 
 **Quantum-Level Discord Token Online Tool**
 
-A high-performance, multi-threaded Discord token online manager with advanced features and real-time monitoring.
+A high-performance, multi-threaded Discord token online manager with advanced features and real-time monitoring
 
 ## 🚀 Features
 
