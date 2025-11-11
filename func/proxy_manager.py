@@ -21,12 +21,12 @@ class ProxyManager:
             "rotating": [],
             "settings": {
                 "default_type": "residential",
-                "auto_rotate": true,
+                "auto_rotate": True,
                 "rotate_interval": 300,
                 "max_retries": 3,
                 "timeout": 10,
-                "check_proxies": true,
-                "ban_avoidance": true
+                "check_proxies": True,
+                "ban_avoidance": True
             },
             "statistics": {
                 "total_proxies": 0,
