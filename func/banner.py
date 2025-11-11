@@ -27,7 +27,7 @@ def show_banner():
     except Exception:
         pass
 
-    text = "QUANTUM ONLINER"
+    text = "QUANTUM"
     fig = pyfiglet.Figlet(font="bloody")
     banner = fig.renderText(text)
     lines = banner.splitlines()
