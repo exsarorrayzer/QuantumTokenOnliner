@@ -1,0 +1,38 @@
+{
+    "threading": {
+        "max_workers": 50,
+        "delay_between": 0.1,
+        "auto_scale": true
+    },
+    "discord": {
+        "status": "online",
+        "custom_status": "QuantumOnliner", 
+        "activities": [],
+        "status_rotation": true,
+        "rotation_interval": 300
+    },
+    "security": {
+        "user_agent_rotation": true,
+        "fingerprint_spoofing": true,
+        "request_randomization": true,
+        "proxy_required": false,
+        "auto_ban_avoidance": true
+    },
+    "performance": {
+        "max_tokens_per_minute": 1000,
+        "connection_timeout": 10,
+        "retry_attempts": 3,
+        "auto_optimize": true
+    },
+    "logging": {
+        "enable_logs": true,
+        "log_level": "INFO",
+        "save_to_file": true,
+        "log_file": "quantum_logs.txt"
+    },
+    "appearance": {
+        "theme": "blue",
+        "show_banner": true,
+        "animation_speed": "normal"
+    }
+}
